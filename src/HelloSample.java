@@ -5,6 +5,7 @@ public class HelloSample {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("Hello World!");
 		System.out.println("Hello Hello");
+		System.out.println("ブランチ切り替え");
 	}
 
 }
